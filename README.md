@@ -8,10 +8,8 @@ The purpose of this analysis was to create an interactive website with dynamic t
 To perform a search on the interactive website, the existing search button was replaced with code that enabled the website to automatically update the results of the table once an input was provided in any of the 5 filters (date, city, state, country, or shape).
 We did this by removing the list element that created the button.  Below, please find images that show the resulting website after refactoring the code. 
 
-## Screenshots of Refactored Website
-![Original : Search Button](https://github.com/AMHembrough/surfs_up/blob/main/June.PNG)
-
-![Refracted : Auto Populating Filters](https://github.com/AMHembrough/surfs_up/blob/main/Dec.PNG)
+## Screenshot of Refactored Website
+![Figure 1](https://github.com/AMHembrough/UFO/blob/main/static/images/Refactored.PNG)
 
 # Summary:
 
